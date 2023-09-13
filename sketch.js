@@ -15,7 +15,7 @@ function draw() {
     fill(150,45,35)
     noStroke()
     ellipse(200, 200, 200, 150)
-    rect(100, 200, 200, 300)
+    rect(100, 200, 200, 300,0,0,15,15)
     fill("white")
     ellipse(200,130,100,50)
     ellipse(200,100,100,50)
