@@ -11,7 +11,7 @@ background("pink");
 function draw() {
     ellipse(200,80,130,80)
     fill("pink")
-    ellipse(200,80,100,50)
+    ellipse(200,80,100,55)
     fill(150,45,35)
     noStroke()
     ellipse(200, 200, 200, 150)
