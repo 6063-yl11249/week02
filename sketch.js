@@ -25,6 +25,6 @@ function draw() {
     strokeWeight(5)
     stroke("white")
     noFill()
-    bezier(190, 330, 195, 340, 210, 340, 215, 330)
+    bezier(190, 320, 195, 330, 210, 330, 215, 320)
     
 }
