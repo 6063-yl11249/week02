@@ -26,5 +26,10 @@ function draw() {
     stroke("white")
     noFill()
     bezier(190, 320, 195, 330, 210, 330, 215, 320)
+
+    //Draw the califlower
+    noStroke()
+    fill
+
     
 }
