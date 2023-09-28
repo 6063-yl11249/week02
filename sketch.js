@@ -9,6 +9,8 @@ background("pink");
 
 
 function draw() {
+    noStroke()
+    fill ('white')
     ellipse(200,80,130,80)
     fill("pink")
     ellipse(200,80,100,55)
@@ -28,8 +30,16 @@ function draw() {
     bezier(190, 320, 195, 330, 210, 330, 215, 320)
 
     //Draw the califlower
+    let eDiam = 170
     noStroke()
-    fill
+    fill (255, 237, 179)
+    ellipse (360,380, eDiam,eDiam)
+    ellipse (420,380, eDiam,eDiam)
+    ellipse (340,420, eDiam,eDiam)
+    ellipse (440,420, eDiam,eDiam)
+    ellipse (360,455, eDiam,eDiam)
+    ellipse (420,455, eDiam,eDiam)
+
 
     
 }
